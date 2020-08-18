@@ -1,6 +1,11 @@
 # Affordable Opportunity in NYC
 A project analyzing the distribution of new affordable units in areas of opportunity in NYC.
 
+*TL;DR*
+- Only a quarter of new affordable units built since 2014 in NYC are in moderate to very high economic opportunity tracts, the rest being in very low and low opportunity tracts. 
+- [Map](https://bendnorman.carto.com/builder/184e678c-dc78-4528-b9a8-94dafc29ae2d/embed)
+
+
 ## Overview
 I was inspire by a [2017 Haas Institute paper](http://haasinstitute.berkeley.edu/sites/default/files/haasinstitute_lihtc_ca_publish_mar14.pdf) that analyzed the distribution of LIHTC developments in areas of opportunity in the San Francisco Bay Area. *“To assess the state’s efficacy in promoting housing opportunities for low-income Californians in well-resourced, racially integrated neighborhoods, this report analyzes project categories by neighborhood opportunity and demographic composition.”* They used UC Davis’ Center for Change Regional Opportunity Index (ROI) to measure economic opportunity at the census tract level. The report found that units are relatively well spread across areas of opportunity. 
 
