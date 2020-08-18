@@ -2,7 +2,7 @@
 A project analyzing the distribution of new affordable units in areas of opportunity in NYC.
 
 *TL;DR*
-- Only a quarter of new affordable units built since 2014 in NYC are in moderate to very high economic opportunity tracts, the rest being in very low and low opportunity tracts. 
+- A quarter of new affordable units built since 2014 in NYC are in moderate to very high economic opportunity tracts, the rest being in very low and low opportunity tracts. 
 - [Map](https://bendnorman.carto.com/builder/184e678c-dc78-4528-b9a8-94dafc29ae2d/embed)
 
 
