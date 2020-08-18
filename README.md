@@ -23,3 +23,26 @@ Critics of affordable development incentive programs like LIHTC claim it perpetu
  - Rothstein, Richard. The Color of Law: A Forgotten History of How Our Government Segregated America (p. 180). Liveright. Kindle Edition
 
 I found that only about a quarter of new affordable units built since 2014 are in moderate to very high economic opportunity tracts, the rest being in very low and low opportunity tracts. While affordable housing and economic opportunity might be a chicken or egg problem, affordable housing should be available in all neighborhoods.   
+
+## Future Work
+ - Affordable housing in NYC is such a nuanced problem so I would love some feedback / thoughts on this project!
+ - Include AMI of a family of 4 to get a sense for how affordable these projects are.
+ - Experiment with different opportunity metrics.
+ - Have the affordable housing data update each quarter.
+
+## Makefile
+You can setup the project by using these make commands:
+```
+make build
+```
+Build the docker image.
+
+```
+make shell
+```
+Run a bash shell inside the container.
+
+```
+make notebook
+```
+Run a jupyterlab instance at http://localhost:8888/.
