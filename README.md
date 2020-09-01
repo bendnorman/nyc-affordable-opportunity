@@ -1,6 +1,6 @@
 # Affordable Opportunity in NYC
 
-This [project](https://github.com/bendnorman/nyc-affordable-opportunity) analyzes the distribution of new affordable units in areas of opportunity in NYC.
+This project analyzes the distribution of new affordable units in areas of opportunity in NYC.
 
 **TL;DR**
 *   Since 2014, a quarter of new affordable units in NYC are in moderate to very high economic opportunity tracts, the rest being in very low and low opportunity tracts. 
